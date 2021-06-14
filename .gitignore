@@ -1,0 +1,13 @@
+
+# direnv
+.envrc.local
+
+# terraform
+.terraform
+.terraform-version
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*.backup
+
+# miscellaneous
+.DS_Store
