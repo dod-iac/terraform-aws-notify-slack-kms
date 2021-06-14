@@ -3,7 +3,9 @@
 
 ## Description
 
-A Terraform module to create KMS keys around the [notify-slack module](https://registry.terraform.io/modules/terraform-aws-modules/notify-slack/aws/latest).
+Terraform module which creates SNS topic and Lambda function which sends notifications to Slack with KMS keys pre-configured
+
+See the original [notify-slack](https://registry.terraform.io/modules/terraform-aws-modules/notify-slack/aws/latest) for more details.
 
 ## Usage
 
